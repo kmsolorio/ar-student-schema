@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'activerecord', :require => 'active_record'
+gem 'activerecord', '~> 4.0', :require => 'active_record'
